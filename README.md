@@ -1,19 +1,9 @@
-# Hello World!
+<div align="center">
 
-My name is Ace and I'm a full-stack web developer based in San Jose, CA. I've been building modern web applications since 2014. Mostly React, Next.js, and TypeScript. Currently focused on e-commerce and content platforms.
+#### Full-stack developer · San Jose, CA
+<sub>Building modern web applications since 2014. Currently focused on e-commerce and content platforms.</sub>
 
-## Skills
+<br>
 
-### Dev
-
-![Dev](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,tailwindcss,javascript,typescript,react,nextjs,nodejs,git,vercel)
-
-### Data
-
-![Sanity](https://readme-icons.com/api/icons?i=sanity&theme=dark)
-![Algolia](https://readme-icons.com/api/icons?i=algolia&theme=dark)
-![Data](https://go-skill-icons.vercel.app/api/icons?i=aws,firebase,mongodb)
-
-### Design
-
-![Design](https://go-skill-icons.vercel.app/api/icons?i=figma,photoshop,illustrator)
+![Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,sass,tailwind,nodejs,aws,firebase,mongodb,git,github,vercel,figma,ps,ai&perline=9)
+</div>
